@@ -1,4 +1,4 @@
-# theHolyAle
+# The Holy Ale
 A time-based game made in Unity and based on the popular movie Monty Python and the Holy Grail.
 
 Made in January 2017 in a team of three as part of a universtiy course.
